@@ -3,9 +3,7 @@
 
 
 A collection of Java programs written for practice and learning.
-
 This repository contains beginner to intermediate level programs
-
 organized by topic.
 
 
